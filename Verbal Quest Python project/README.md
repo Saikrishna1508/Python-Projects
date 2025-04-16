@@ -1,4 +1,4 @@
-VerbalQuest - A Python Word Guessing Game VerbalQuest is a fun word guessing game made with Python. Your goal is to guess a hidden word by trying different 5-letter words. You’ll get clues to help you figure out the correct word!
+VerbalQuest is a fun word guessing game made with Python. Your goal is to guess a hidden word by trying different 5-letter words. You’ll get clues to help you figure out the correct word!
 
 How the Game Works:
 
